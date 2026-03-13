@@ -1,0 +1,33 @@
+# 训练产物
+outputs/
+
+# 数据集（体积大，不入库）
+dataset/mnist/
+dataset/cifar100/
+dataset/imagenet/
+
+# Python
+__pycache__/
+*__pycache__*
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log
