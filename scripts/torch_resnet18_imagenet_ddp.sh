@@ -4,7 +4,7 @@
 
 set -e
 cd "$(dirname "$0")/.."
-
+export CUDA_VISIBLE_DEVICES=0,4,5,7
 NPROC=4  # 修改为实际 GPU 数量
 
 torchrun --nproc_per_node=$NPROC \

@@ -9,8 +9,11 @@
   <img src="https://img.shields.io/badge/ONNX-1.20-61DAFB?logo=onnx&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/TensorBoard-2.20-4CAF50?logo=tensorflow&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?logo=nvidia&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/RDK-S100-FF6F00?logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/NVIDIA-TensorRT-76B900?logo=nvidia&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/RDK-S100-FF6F00?logo=rockstargames&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Cauchy-Kesai-FF0000?logo=github&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/License-AGPL--3.0-blue?logo=gnu&logoColor=white" height="25" />
+  
 </p>
 
 

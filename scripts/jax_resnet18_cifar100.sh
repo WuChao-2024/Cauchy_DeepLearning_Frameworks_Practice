@@ -4,6 +4,7 @@
 
 set -e
 cd "$(dirname "$0")/.."
+export CUDA_VISIBLE_DEVICES=0
 
 python jax/cnn/resnet18_train.py \
     --dataset      cifar100 \
