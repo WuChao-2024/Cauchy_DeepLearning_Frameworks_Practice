@@ -3,13 +3,14 @@
 # PyTorch vs JAX 对比学习项目
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/PyTorch-2.10-EE4C2C?logo=pytorch&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/JAX-0.9-9cf?logo=google&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/License-AGPL--3.0-blue?logo=gnu&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/ONNX-1.20-61DAFB?logo=onnx&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/TensorBoard-4CAF50?logo=tensorflow&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/RDK-S100-FF6F00?logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/PyTorch-2.10-EE4C2C?logo=pytorch&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/JAX-0.9-9cf?logo=google&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/ONNX-1.20-61DAFB?logo=onnx&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/TensorBoard-2.20-4CAF50?logo=tensorflow&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?logo=nvidia&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/RDK-S100-FF6F00?logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/License-AGPL--3.0-blue?logo=gnu&logoColor=white" height="25" />
 </p>
 
 
